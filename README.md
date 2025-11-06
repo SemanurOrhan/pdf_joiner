@@ -32,7 +32,7 @@ PDF dosyalarını `pdf_joiner.py` ile aynı klasöre koyun ve birleştirme sıra
 python pdf_joiner.py
 ```
 
-- Çıktı dosyası adı: `BMO_birlestirilmis.pdf`
+- Çıktı dosyası adı: `birlestirilmis.pdf`
 - Birleştirme sırası: `pdf_list` dizisindeki sıra
 
 ### Sıralamayı/Dosyaları Değiştirme
